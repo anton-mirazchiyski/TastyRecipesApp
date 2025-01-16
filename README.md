@@ -17,3 +17,12 @@
 
 
 ![Profile-Delete-page](https://github.com/user-attachments/assets/c590965a-6a34-484f-bc97-0bff5a1154d2)
+
+
+![Catalogue-page](https://github.com/user-attachments/assets/e5b48d4b-9088-4a97-8f00-9d3696bf2514)
+
+
+![Recipe-Details-page](https://github.com/user-attachments/assets/0aa90b24-26ef-4ab1-a3a4-ff04eef4fdb7)
+
+
+![Recipe-Edit-page](https://github.com/user-attachments/assets/ca1ce8de-00a7-45ba-b560-118b26212ebb)
