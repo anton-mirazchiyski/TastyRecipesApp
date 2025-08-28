@@ -1,3 +1,11 @@
+# Tasty Recipes App
+*Django Exam*
+
+A four-hour exam with **pre-given HTML and CSS**, where I implemented the **backend** of the application using the **Django** framework.
+
+
+## Screenshots
+
 ![Home-page](https://github.com/user-attachments/assets/2e299ea9-a87d-4d70-8404-0f62157491c8)
 
 
